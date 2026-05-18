@@ -1,0 +1,56 @@
+classDiagram
+    class Invoice {
+        +int InvoiceID
+        +int PatientID
+        +int EncounterID
+        +DateTime CreatedAt
+        +decimal TotalAmount
+        +decimal InsuranceCoveredAmount
+        +decimal PatientPayableAmount
+        +decimal AmountPaid
+        +string PaymentMethod
+        +bool IsClosed
+        +CalculateTotals() void
+        +CloseInvoice() bool
+    }
+
+    class InvoiceItem {
+        +int ItemID
+        +int InvoiceID
+        +int ServiceID
+        +int Quantity
+        +decimal TotalPrice
+        +bool IsVerified
+        +string CoverageStatus
+        +CalculateItemPrice() void
+    }
+
+    class MedicalService {
+        +int ServiceID
+        +string ServiceName
+        +decimal ServicePrice
+        +string Department
+    }
+
+    class PatientInsurance {
+        +int InsuranceID
+        +int PatientID
+        +int CompanyID
+        +decimal CoverageLimit
+        +decimal CurrentBalanceUsed
+        +decimal CustomCoverageRatio
+        +bool IsActive
+        +CheckCoverageValidity() bool
+    }
+
+    class InsuranceCompany {
+        +int CompanyID
+        +string CompanyName
+        +decimal DefaultCoverageRatio
+    }
+
+    %% Relationships (العلاقات بين الكلاسات)
+    Invoice "1" --> "0..*" InvoiceItem : Contains
+    MedicalService "1" --> "0..*" InvoiceItem : Used In
+    PatientInsurance "1" --> "0..*" Invoice : Covers
+    InsuranceCompany "1" --> "0..*" PatientInsurance : Issues
