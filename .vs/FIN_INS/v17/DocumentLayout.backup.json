@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\migrations\\20260518080036_addpaymentandcoveragefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:migrations\\20260518080036_addpaymentandcoveragefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\migrations\\20260518054451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:migrations\\20260518054451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\fin_ins.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:fin_ins.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\insurancecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\insurancecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\medicalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|c:\\users\\alkhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\fin_ins\\models\\patientinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468413C5-177E-40D0-9CA4-90F4FEF6E267}|FIN_INS.csproj|solutionrelative:models\\patientinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260518080036_AddPaymentAndCoverageFields.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Migrations\\20260518080036_AddPaymentAndCoverageFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260518080036_AddPaymentAndCoverageFields.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Migrations\\20260518080036_AddPaymentAndCoverageFields.cs",
+              "RelativeToolTip": "Migrations\\20260518080036_AddPaymentAndCoverageFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:00:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260518054451_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Migrations\\20260518054451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260518054451_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Migrations\\20260518054451_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260518054451_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:44:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T05:34:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:32:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceItem.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "Models\\InvoiceItem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:24:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:23:40.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsuranceCompany.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\InsuranceCompany.cs",
+              "RelativeDocumentMoniker": "Models\\InsuranceCompany.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\InsuranceCompany.cs",
+              "RelativeToolTip": "Models\\InsuranceCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:21:31.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:17:01.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FIN_INS.http",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\FIN_INS.http",
+              "RelativeDocumentMoniker": "FIN_INS.http",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\FIN_INS.http",
+              "RelativeToolTip": "FIN_INS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-08T09:17:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientInsurance.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\PatientInsurance.cs",
+              "RelativeDocumentMoniker": "Models\\PatientInsurance.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\PatientInsurance.cs",
+              "RelativeToolTip": "Models\\PatientInsurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:22:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalService.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\MedicalService.cs",
+              "RelativeDocumentMoniker": "Models\\MedicalService.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\MedicalService.cs",
+              "RelativeToolTip": "Models\\MedicalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:20:13.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\AlKhatib\\source\\repos\\hospital-erp-g4-t2-fin-ins\\FIN_INS\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:18:33.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
